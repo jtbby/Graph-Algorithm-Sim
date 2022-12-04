@@ -1,1 +1,2 @@
-# Graph-Algorithm-Sim
+# Graph Algorithm Simulator
+
