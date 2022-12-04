@@ -9,4 +9,3 @@ This is one of my recent projects that uses a graph data structure that uses a p
   - The graph can be edited and transformed by hand
 
 ![Alt Text](https://github.com/jtbby/Graph-Algorithm-Sim/blob/main/Graph%20Algorithm%20Simulator/animated.gif?raw=true)
-
